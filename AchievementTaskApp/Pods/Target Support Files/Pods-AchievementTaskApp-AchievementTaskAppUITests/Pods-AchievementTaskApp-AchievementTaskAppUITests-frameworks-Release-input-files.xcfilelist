@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AchievementTaskApp-AchievementTaskAppUITests/Pods-AchievementTaskApp-AchievementTaskAppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
